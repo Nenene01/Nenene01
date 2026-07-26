@@ -41,7 +41,7 @@ def latest_zenn_articles() -> list[str]:
         title = escape_markdown(article["title"])
         url = f"https://zenn.dev{article['path']}"
         published_at = article["published_at"][:10]
-        articles.append(f"- [{title}]({url}) - {published_at}")
+        articles.append(f"- 📝 [{title}]({url}) - {published_at}")
     return articles
 
 
