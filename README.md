@@ -45,11 +45,11 @@
 ## 📚 Latest articles on Zenn
 
 <!-- zenn starts -->
+- 📝 [CodexのSubagentsを実プロジェクトで試して分かったこと](https://zenn.dev/nenene01/articles/codex-subagents-hands-on) - 2026-07-27
+- 📝 [agency-agentsをCodexで試したら、CI通過済みの実装が「NEEDS WORK」になった](https://zenn.dev/nenene01/articles/agency-agents-codex-hands-on) - 2026-07-27
 - 📝 [SNSで話題のClaude Codeスラッシュコマンド、実在するのか全部実機検証してみた](https://zenn.dev/nenene01/articles/claude-code-slash-commands-hands-on) - 2026-07-16
 - 📝 [開発現場のAIセキュリティを見直す](https://zenn.dev/nenene01/articles/ai-security-2026) - 2026-07-12
 - 📝 [「プロンプトを打つ」から「ループを設計する」へ](https://zenn.dev/nenene01/articles/loop-engineering-claude-code) - 2026-07-10
-- 📝 [Claude Code × Codex 最新モデルの特徴と使い分け（2026年7月版）](https://zenn.dev/nenene01/articles/model-guide-2026) - 2026-07-10
-- 📝 [外部API課金に怯えず、既存Cloudflare契約の"内側"でAI機能を後付けする — Workers AIでAIコーチを作った実録](https://zenn.dev/nenene01/articles/workers-ai-coach-musclelog) - 2026-07-09
 <!-- zenn ends -->
 
 <p align="right">
