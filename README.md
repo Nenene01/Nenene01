@@ -45,11 +45,11 @@
 ## 📚 Latest articles on Zenn
 
 <!-- zenn starts -->
+- 📝 [AI駆動開発では、実装の前に「a × b」を設計する](https://zenn.dev/nenene01/articles/ai-development-readiness-a-times-b) - 2026-09-16
 - 📝 [CodexのSubagentsを実プロジェクトで試して分かったこと](https://zenn.dev/nenene01/articles/codex-subagents-hands-on) - 2026-07-27
 - 📝 [agency-agentsをCodexで試したら、CI通過済みの実装が「NEEDS WORK」になった](https://zenn.dev/nenene01/articles/agency-agents-codex-hands-on) - 2026-07-27
 - 📝 [SNSで話題のClaude Codeスラッシュコマンド、実在するのか全部実機検証してみた](https://zenn.dev/nenene01/articles/claude-code-slash-commands-hands-on) - 2026-07-16
 - 📝 [開発現場のAIセキュリティを見直す](https://zenn.dev/nenene01/articles/ai-security-2026) - 2026-07-12
-- 📝 [「プロンプトを打つ」から「ループを設計する」へ](https://zenn.dev/nenene01/articles/loop-engineering-claude-code) - 2026-07-10
 <!-- zenn ends -->
 
 <p align="right">
