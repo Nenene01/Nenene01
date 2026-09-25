@@ -39,7 +39,6 @@
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [chaba](https://github.com/Nenene01/chaba) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Git worktree・ブランチ操作・サンドボックスを統合した、AIエージェント向けのソースレビュー／デバッグ環境 |
 | [usml](https://github.com/Nenene01/usml) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | OpenAPIとDBMLをつなぎ、APIエンドポイントからデータベースまでのデータフローを可視化するツール |
 
 ## 📚 Latest articles on Zenn
