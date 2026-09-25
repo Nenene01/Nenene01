@@ -25,9 +25,9 @@
 
 ## 🧭 Current focus
 
+- 📝 AI駆動開発の実機検証とナレッジ共有
 - 🤖 AIエージェントを前提とした開発ワークフローとオーケストレーション
 - 💻 TypeScriptによるWebアプリケーション開発
-- 📝 AI駆動開発の実機検証とナレッジ共有
 
 ## 🛠️ Tech stack
 
@@ -35,21 +35,19 @@
   <img alt="TypeScript, Node.js, React, Next.js, Rust, Docker, Cloudflare, Git and GitHub Actions" src="https://skillicons.dev/icons?theme=dark&perline=9&i=ts,nodejs,react,nextjs,rust,docker,cloudflare,git,githubactions">
 </p>
 
-## 🚀 Projects
+## 📚 Featured articles on Zenn
 
-| Project | Stack | Description |
-| --- | --- | --- |
-| [usml](https://github.com/Nenene01/usml) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | OpenAPIとDBMLをつなぎ、APIエンドポイントからデータベースまでのデータフローを可視化するツール |
+### 🔥 Popular articles
 
-## 📚 Latest articles on Zenn
+- 📝 [開発現場のAIセキュリティを見直す](https://zenn.dev/nenene01/articles/ai-security-2026) — 25 likes
+- 📝 [AIエージェント統合IDE「Orca」を触って、開発の景色が変わった話](https://zenn.dev/nenene01/articles/orca-ai-agent-ide) — 17 likes
+- 📝 [この先のコードレビューについて。人間によるコードレビューは必要なのか？](https://zenn.dev/nenene01/articles/rethinking-code-review-ai) — 8 likes
 
-<!-- zenn starts -->
-- 📝 [AIエージェントの改善ループは、なぜ増築になっていくのか](https://zenn.dev/nenene01/articles/ai-agent-improvement-loop-design) - 2026-09-24
-- 📝 [AI駆動開発で「仕様をどこでどこまで維持するか」を考える](https://zenn.dev/nenene01/articles/spec-first-anchored-as-source) - 2026-09-24
-- 📝 [AI駆動開発では、実装の前に「a × b」を設計する](https://zenn.dev/nenene01/articles/ai-development-readiness-a-times-b) - 2026-09-16
-- 📝 [CodexのSubagentsを実プロジェクトで試して分かったこと](https://zenn.dev/nenene01/articles/codex-subagents-hands-on) - 2026-07-27
-- 📝 [agency-agentsをCodexで試したら、CI通過済みの実装が「NEEDS WORK」になった](https://zenn.dev/nenene01/articles/agency-agents-codex-hands-on) - 2026-07-27
-<!-- zenn ends -->
+### 🆕 Latest articles
+
+- 📝 [AIエージェントの改善ループは、なぜ増築になっていくのか](https://zenn.dev/nenene01/articles/ai-agent-improvement-loop-design) — 2026-09-24
+- 📝 [AI駆動開発で「仕様をどこでどこまで維持するか」を考える](https://zenn.dev/nenene01/articles/spec-first-anchored-as-source) — 2026-09-24
+- 📝 [AI駆動開発では、実装の前に「a × b」を設計する](https://zenn.dev/nenene01/articles/ai-development-readiness-a-times-b) — 2026-09-16
 
 <p align="right">
   <a href="https://zenn.dev/nenene01">More articles →</a>
